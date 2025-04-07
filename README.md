@@ -47,4 +47,6 @@ Acknowledgements
 1. OMDB API for providing movie data.
 2. React for building the frontend framework.
 3. Tailwind CSS for styling.
+
+Demo Link: https://diwakars-movie-app.netlify.app/
                                                             
