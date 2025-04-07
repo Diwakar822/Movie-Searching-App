@@ -24,7 +24,7 @@ The app integrates with the OMDB API to fetch movie data.
 4. API: OMDB API
 5. State Management: React hooks (useState, useEffect)
 6. Deployment: Netlify
-7. 
+   
 ---
 ## OMDB API Key
 
